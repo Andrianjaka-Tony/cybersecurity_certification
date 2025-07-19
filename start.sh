@@ -1,0 +1,1 @@
+python3 manage.py startapp cybersecurity_application
